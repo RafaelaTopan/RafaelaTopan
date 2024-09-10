@@ -1,5 +1,7 @@
 ## Hi there 👋
 meu nome é Rafaela Topan
+sou estudante da escola Dona Veneranda Martins Siqueira
+![](https://images.app.goo.gl/8xuMLJwEPeksjZU86)
 <!--
 **RafaelaTopan/RafaelaTopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
